@@ -3,7 +3,7 @@
 	<form action="" class="form-horizontal">
 <div class="col-md-8">
 	<article>
-			<h1>Bienvenido a la tienda </h1>
+			<h1>Bienvenidos a la tienda </h1>
 	</article>
 	</div>
 	</form>
